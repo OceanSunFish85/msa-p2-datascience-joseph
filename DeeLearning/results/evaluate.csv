@@ -1,0 +1,39 @@
+Evaluating the best model on the training set
+Training Accuracy:  0.960775
+Classification Report for Training Set:
+               precision    recall  f1-score   support
+
+           0       0.90      0.92      0.91      4010
+           1       0.97      0.98      0.97      3976
+           2       0.95      0.97      0.96      3980
+           3       0.99      0.98      0.98      4008
+           4       0.96      0.94      0.95      4001
+           5       0.95      0.90      0.92      4018
+           6       0.97      0.97      0.97      4007
+           7       0.97      0.98      0.98      3930
+           8       0.96      0.99      0.97      4050
+           9       0.99      0.98      0.98      4020
+
+    accuracy                           0.96     40000
+   macro avg       0.96      0.96      0.96     40000
+weighted avg       0.96      0.96      0.96     40000
+
+Evaluating the best model on the test set
+Test Accuracy:  0.8784
+Classification Report for Test Set:
+               precision    recall  f1-score   support
+
+           0       0.74      0.76      0.75       484
+           1       0.91      0.89      0.90       515
+           2       0.86      0.88      0.87       504
+           3       0.94      0.94      0.94       491
+           4       0.89      0.84      0.86       499
+           5       0.84      0.81      0.82       478
+           6       0.89      0.88      0.89       507
+           7       0.93      0.93      0.93       575
+           8       0.84      0.92      0.88       462
+           9       0.94      0.91      0.93       485
+
+    accuracy                           0.88      5000
+   macro avg       0.88      0.88      0.88      5000
+weighted avg       0.88      0.88      0.88      5000

@@ -49,5 +49,6 @@ Additionally, install other dependencies from requirements.txt:
 ```bash
 pip install -r requirements.txt
 ```
+predictions.csv is a copy of the results submitted in the kaggle competition
 
 requirements.txt was generated directly from the Conda environment used to train the model, ensuring all necessary dependencies are included.
